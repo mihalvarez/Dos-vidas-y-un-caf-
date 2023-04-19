@@ -28,12 +28,10 @@ Univesidad de Granada
 **Fecha** : 2023
 
 **Medios**:
-*  Github (https://github.com/mihalvarez/Dos-vidas-y-un-caf-/) 
-* Twitter 
-* ... 
-
-
-
+* Github (https://github.com/mihalvarez/Dos-vidas-y-un-caf-/) 
+* Milanote (https://app.milanote.com/1PCuiB1fLAfbat?p=TBkAshvvbu7) 
+* Arcweave (https://arcweave.com/app/project/2g6deGw08j) 
+* Protopie (https://cloud.protopie.io/p/a944e13f2798c98c1323daec) 
 --- 
 
 ### Metodología
@@ -42,20 +40,22 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Milanote (https://app.milanote.com/1PCuiB1fLAfbat?p=TBkAshvvbu7) 
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**  (Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
-
+* Econejo 
+* The Boat (https://www.sbs.com.au/theboat/) 
+* Ninette Berlin (https://ninette.berlin/mainsite/) 
 
 **Necesidad/oportunidad** 
+Tratar el tema del luto y el Alzheimer a través de una historia conmovedora, con la que consigas identificarte y reflexionar.  
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** 
+Anteriormente, ha habido proyectos sobre el luto por un lado y el Alzheimer por otro, pero pensamos que un proyecto como "Dos vidas y un café" aúna ambas temáticas ofreciendo un diseño atractivo y una experiencia interactiva. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  
+El público objetivo del proyecto "Dos vidas y un café" es la población en general ya que todo el mundo puede identificarse con los temas propuestos en la narrativa. En concreto, la parte del Alzheimer va dirigida sobretodo a familias o personas afectadas por la enfermedad. 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
