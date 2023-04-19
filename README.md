@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## DOS VIDAS Y UN CAFÉ 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,26 +9,26 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : DOS VIDAS Y UN CAFÉ
 
-**Autor(es)** ______________
+**Autor(es)** Angie Alzate, Carmen Aulló, Milena Diaz y Yamila Tulosa 
 
-**Resumen** : _________
+**Resumen** : Dos vidas y un café es una narrativa interactiva que trata la temática del recuerdo de las personas que ya no forman parte de nuestras vidas. El proyecto cuenta la historia de dos ancianos que visitan cada día la misma cafetería, en la que trabaja Lucas, un joven camarero. Lucas sirve siempre a la pareja hasta que un día, el anciano aparece solo. Aunque la anciana ya no esté, ella seguirá viviendo, gracias a los recuerdos de su marido y de Lucas.
 
-**logotipo** :  ________
+**Logotipo** 
 
-**Slogan** (frase motivadora/inspiradora): ________
+![Logotio - Dos Vidas y un café](https://user-images.githubusercontent.com/130590834/233143061-8488082e-9349-45be-a554-194023d08887.jpeg)
 
-**Hashtag**  ___
+**Slogan** Todos tenemos a alguien a quien echamos de menos. Aunque ya no puedas tomar un café con esta persona, sigue presente a través de tus recuerdos y de aquellos que compartiron momentos con ella.   
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Hashtag** #DOSVIDASYUNCAFÉ; #CUÉNTANOSTUHISTORIA y #(RE)VIVE 
 
-**Fecha** : 2020
+**Licencia**: Reconocimiento- NoComercial- CompartirIgual 3.0 España (CC BY-NC-SA 3.0 ES) 
 
-**Medios** (donde se tiene presencia): 
+**Fecha** : 2023
 
-
-*  :octocat: (github url) 
+**Medios**:
+*  Github (https://github.com/mihalvarez/Dos-vidas-y-un-caf-/) 
 * Twitter 
 * ... 
 
